@@ -1,37 +1,29 @@
 # 👋 Merhaba, ben Ahmet Faruk Durmuş
 
 💻 Bilgisayar Mühendisiyim.  
-📱 İlgi alanlarım: Python, Yapay Zeka, Mobil Uygulama Geliştirme  
+🔬 İlgi alanlarım: **Python**, **Yapay Zeka**, **Görüntü İşleme**, **Mobil Uygulama Geliştirme**  
+📘 Aktif olarak **Python** ve **Jupyter Notebook** üzerinde çalışıyorum.  
 
 ---
 
-### ⌨️ Hakkımda
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Merhaba!+Ben+Ahmet;Mobil+Uygulama+Geliştirici;Python+%7C+AI+%7C+Flutter)](https://git.io/typing-svg)
+## 🧠 Hakkımda
+Merhaba! Ben Ahmet.  
+Kod yazmayı, yeni teknolojileri öğrenmeyi ve projeler üretmeyi seviyorum.  
+Yapay zeka, veri analizi ve mobil geliştirme konularında kendimi sürekli geliştiriyorum.  
 
 ---
 
-### 📊 GitHub İstatistiklerim
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetfarukdurmus&show_icons=true&theme=radical)
-
-### 🔥 En Çok Kullandığım Diller
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetfarukdurmus&layout=compact&theme=tokyonight)
+## 📊 GitHub İstatistiklerim
+![Ahmet Faruk Durmuş'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=ahmetfarukdurmus&show_icons=true&theme=radical)
 
 ---
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" align="right">
+## 🔥 En Çok Kullandığım Diller
+![Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetfarukdurmus&layout=compact&theme=radical)
 
+---
 
-<!--
-**ahmetfarukdurmus/ahmetfarukdurmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Bana Ulaşın
+- 🌐 [GitHub Profilim](https://github.com/ahmetfarukdurmus)
+- 📧 E-posta: *(istersen ekleyebiliriz)*  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
