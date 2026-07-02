@@ -1,7 +1,6 @@
 # 👋 Merhaba, ben Ahmet Faruk Durmuş
 
-💻 Bilgisayar Mühendisiyim.  
-📱 İlgi alanlarım: Python, Yapay Zeka, Mobil Uygulama Geliştirme  
+  
 
 ---
 
