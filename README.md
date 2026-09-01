@@ -15,14 +15,6 @@ Backend geliştirme, ölçeklenebilir sistemler ve bulut teknolojileri üzerine 
 
 ### GitHub İstatistikleri
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetfarukdurmus&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetfarukdurmus&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+[![Ahmet Faruk's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahmetfarukdurmus&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### İletişim
-
-- **LinkedIn:** [Profilim](https://linkedin.com/in/kullaniciadin)
-- **E-posta:** ornek@email.com
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmetfarukdurmus&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
